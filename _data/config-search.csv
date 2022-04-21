@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
+commonname,true,true
+scientificname,true,true
+variation,true,true
+location,true,true
+lightneeds,true,true
+soiltype,true,true
+wateringneeds,true,true
 description,true,true
-subject,true,true
-location,true,false
