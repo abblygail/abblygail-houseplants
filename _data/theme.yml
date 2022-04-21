@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://photos.google.com/u/3/search/plant/photo/AF1QipPIxGnRF8uSaIMEXzKXZ72j7tbUCRyILoWKolpV
+featured-image: https://lh3.googleusercontent.com/tFBofCdseLTDx-zHv607Oh1E8BO-hvG7piXBqMpkM2jAzEvvRie1uqZsSjyyv7CdZ2Fclj3givWqwfcV4xU_37NaCOemqIzlYK8hlvUyrRUC1Fr1A2dbUjn4T5rtyyWIcCpOx544A_m-DtzwJUJFn5-gyh-1BpH68dTsmeBEKqPoEroFKRq67OqCOJk5tWChuqMoTtvi3ZuhHBxKvdygC5MWaCDOMoP1bBgBHkBySpqjyoPAVjcP733RmIcqi0QbkOWfMzHlsmwuKjct3OGNoU4fUHSI9vWeH3Ab3Aedly69YiL6ay3_1cnfUR9IJ2SA2EQDFP6lnuaDBohpvQHnYP2sS_S9clG9Ag2ne55JJcu50qdZ0XN-fYmqUa8V6NGZhCDhRq0SMCqmC4hrgJ_Zbu_wQGSmlWrGbIQZVdYUJ_0og9bbTiaHRSsRUe6sTZBybKuUB50YOf8ad6D2riSmv6RWjnENWk4aIsXGh4hFUCk_pYCdVm-arLLvwd3lOap3OzJRkT9hZeiMuF82YH-pAglOM0Vvj8moc352M3qMc7839cOAdfNl61934BNPNliYFTCQGihCCI8jWhICKIo8AgNwUmf_UcW0NdYLBG7dE7HXAZZUoNjgIcCy4yY5AgXC0GqcpGsFfktVCjlGQNmh7pyP87VS-P5JxHkRGu3lFtpkJEkSreR2NgEqVUh2AFO8FKs0kOMQTvZ1eEnhq9rzYq-Qis32DdPLff7k5hf5-njaN5nRH4dMjfzk1mZzzMDS5SqjCg-8-QGfoGGEkrUWaV1q92OL9T3RWM0v9uAsw7nVOXevvRdQgjz-JKh9F_4Wf6j9SPD8V1lyVgS-P4dyV7h-PXVRxxCqKhgLWFzp=w1269-h1692-no?authuser=3
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of background image, center, top, bottom
