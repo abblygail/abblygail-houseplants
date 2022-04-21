@@ -10,11 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;" %}
+{% include feature/nav-menu.html sections="About the Collection;About Collection Builder" %}
 
 ## About the Collection
 
 This is a collection of all of my houseplants, created in spring 2022 for my capstone project in LBSC 671. It includes the common name and scientific name for each plant. When applicable, it includes the variation (variety) of plant as well. For the ease of plant sitters, it includes a photo for visual reference, along with a text description. Likewise, information about the care needs (light needs, soil type, and watering needs) and location within the home are also listed.
+
+## About Collection Builder
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
