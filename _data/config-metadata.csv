@@ -2,9 +2,9 @@ field,display_name,browse_link,external_link
 commonname,Common Name,
 scientificname,Scientific Name,
 variation,Variation,
-location,Location,true
-lightneeds,Light Needs,true
-soiltype,Soil Type,true
-wateringneeds,Watering Needs,true
+location,Location,
+lightneeds,Light Needs,
+soiltype,Soil Type,
+wateringneeds,Watering Needs,
 description,Description,
 
