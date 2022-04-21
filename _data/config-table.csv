@@ -1,5 +1,10 @@
 field,display_name
 title,Title
-date,Date
+commonname,Common Name
+scientificname,Scientific Name
+variation,Variation
+location,Location
+lightneeds,Light Needs
+soiltype,Soil Type
+wateringneeds,Watering Needs
 description,Description
-subject,Subjects
