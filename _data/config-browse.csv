@@ -1,5 +1,9 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-
+commonname,,,true,
+scientificname,,,true,
+variation,,,true,
+location,,,true,Location
+lightneeds,,,true,Light Needs
+soiltype,,,true,Soil Type
+wateringneeds,,,true,Watering Needs
+description,,,true,
