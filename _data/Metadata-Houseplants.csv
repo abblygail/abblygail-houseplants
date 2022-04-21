@@ -1,4 +1,4 @@
-objectid,filename,title,format,Number,Picture,Common Name,Scientific Name,Variation,Location,Light Needs,Soil Type,Watering Needs,Description
+objectid,filename,title,format,number,picture,commonname,scientificname,variation,location,lightneeds,soiltype,wateringneeds,description
 coll001,1_Rubber Tree.jpeg,Rubber Tree,image/jpeg,1,,Rubber Tree,Ficus elastica,Burgundy,"family room, left of bay window","bright, indirect","potting soil, perlite, orchid bark","consistent, keep moist (once a week)","Large, dark green, thick leaves. New leaves encased in red growth. In nursery pot in white plastic pot."
 coll002,2_Snake.jpeg,Snake Plant,image/jpeg,2,,Snake,Dracaena trifasciata,Hahnii,"dining room, left of green chair","bright, indirect","potting soil, perlite, sand","minimal, dry out (once every 2 weeks)","Long, thick, football shaped green leaves with varigation. In red ceramic pot."
 coll003,3_Pothos.jpeg,Pothos,image/jpeg,3,,Pothos,Epipremnum aureum,Marble,"dining room, left bookshelf","low, indirect","potting soil, perlite","consistent, keep moist (once a week)","Medium, heart shaped, green leaves with varigation. Long vines. In gray plastic pot."
