@@ -8,7 +8,7 @@ permalink: /needs.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Needs
+## Browse Plant Needs
 
 Use this word cloud visualization to browse plant needs.
 Word size is determined by frequency and all words link to a corresponding collection search.
